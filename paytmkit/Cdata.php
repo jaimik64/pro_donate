@@ -1,0 +1,14 @@
+<?php
+session_start();
+$id=$_SESSION['id'];
+$c=$_SESSION['cn'];
+	     $a=$_SESSION['amt'];
+	   if($_SESSION['mrms']=="male")
+	   {
+	       $m="Mr";
+	   }
+	   else
+	   {
+	       $m="Ms";
+	   }
+?>
