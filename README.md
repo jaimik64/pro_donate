@@ -7,6 +7,7 @@
 Download Zip file<br>
 Extract On Web-Server <br>
 Update (db.php) : file for Database Connection
+Database File Included In zip file (id11970969_dms.sql)
 
 # Paytm Payment Integration 
 
